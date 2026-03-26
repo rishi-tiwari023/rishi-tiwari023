@@ -1,6 +1,8 @@
 <h3 align="center">
     <samp>
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+It's+me+Rishi+Tiwari...)](https://git.io/typing-svg)
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rishi+Tiwari...;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+        </a>
     </samp>
 </h3>
 
