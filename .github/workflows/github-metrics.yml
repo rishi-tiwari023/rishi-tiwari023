@@ -55,16 +55,6 @@ jobs:
           plugin_notable_from: all
           user: rishi-tiwari023
 
-      - name: Discussions & Reactions
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/metrics.plugin.discussions.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_discussions: yes
-          plugin_reactions: yes
-          user: rishi-tiwari023
 
       - name: Follow-up Stats
         uses: lowlighter/metrics@latest
