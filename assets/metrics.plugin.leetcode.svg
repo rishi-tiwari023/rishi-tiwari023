@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.38185545873911 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">728</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.46617119425936 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">729</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3902</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="75.49092849519744 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">215</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="75.84204909284952 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">216</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/937</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -63,8 +63,8 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x359</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x146</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x360</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x147</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x134</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x126</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x111</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Total Distance Traveled</div>
-                            <div class="date">14 Apr 2026</div>
+                            <div class="title">Shortest Distance to Target String in a Circular Array</div>
+                            <div class="date">15 Apr 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Distance to the Target Element</div>
-                            <div class="date">13 Apr 2026</div>
+                            <div class="title">Minimum Total Distance Traveled</div>
+                            <div class="date">14 Apr 2026</div>
                         </div>
                     </div>
                 </section>
