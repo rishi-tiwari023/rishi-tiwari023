@@ -16,10 +16,10 @@
 
 <div align="center">
 
-| Competition | Idea | Link |
-|:-----------:|:----:|:----:|
-| **AWSBuild 10,000 AIdeas** | MaatriSahayak | [Link](https://maatrisahayak.in/) |
-| **Imagine Cup 2026 by Microsoft** | OptiMSP PaaS | [Link](https://github.com/Krishna-Tripathi78/OPTI-MSP-AI-AGENT) |
+|             Competition             |     Idea      |                              Link                               |
+| :---------------------------------: | :-----------: | :-------------------------------------------------------------: |
+| **AWSBuild 10,000 AIdeas (Winner)** | MaatriSahayak |                [Link](https://maatrisahayak.in/)                |
+|  **Imagine Cup 2026 by Microsoft**  | OptiMSP PaaS  | [Link](https://github.com/Krishna-Tripathi78/OPTI-MSP-AI-AGENT) |
 
 </div>
 
@@ -41,6 +41,22 @@ About Me = {
 "Together, let's push the boundaries of what's possible and shape a future powered by code. ✨"
 }
 ```
+
+<hr>
+
+<div align="center">
+    <h1>Education 🎓</h1>
+</div>
+
+<div align="center">
+
+| Degree / Certificate |   Score   |
+| :------------------: | :-------: |
+|      **B.Tech**      | 8.70 CGPA |
+|       **12th**       |  90.25%   |
+|       **10th**       |  90.40%   |
+
+</div>
 
 <hr>
 
@@ -210,14 +226,14 @@ About Me = {
 <div align="center">
   <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> GitHub Metrics</h2>
 
- | Overview | Follow up Issues & PRs |
- |:--------:|:-------------------------:|
- | ![Overview](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
- | Leetcode Stats | Notable Contributions |
- | ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
- | Achievements | Language Activity |
- | ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
- 
+|                        Overview                         |                          Follow up Issues & PRs                           |
+| :-----------------------------------------------------: | :-----------------------------------------------------------------------: |
+|    ![Overview](assets/metrics.plugin.code.lines.svg)    |       ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg)       |
+|                     Leetcode Stats                      |                           Notable Contributions                           |
+|  ![Leetcode Stats](assets/metrics.plugin.leetcode.svg)  | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
+|                      Achievements                       |                             Language Activity                             |
+| ![Achievements](assets/metrics.plugin.achievements.svg) |    ![Language Activity](assets/metrics.plugin.languages.activity.svg)     |
+
 </div>
 
 <hr>
@@ -228,7 +244,6 @@ About Me = {
 </div>
 
 <hr>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thankyou%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20grow%20together!&descAlignY=90&descSize=16" alt="Footer" />
