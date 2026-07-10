@@ -52,7 +52,7 @@ About Me = {
 
 | Degree / Certificate |   Score   |
 | :------------------: | :-------: |
-|      **B.Tech**      | 8.70 CGPA |
+|      **B.Tech**      | 8.57 CGPA |
 |       **12th**       |  90.25%   |
 |       **10th**       |  90.40%   |
 
