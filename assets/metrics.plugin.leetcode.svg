@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="75.6071953010279 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">939</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4086</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="75.66919500856375 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">940</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4087</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,17 +37,17 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="78.62018779342723 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="78.58329422806194 329"/>
                                     <text x="60" y="50" dominant-baseline="central">509</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2130</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2131</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="55.5020325203252 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">166</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="55.83638211382114 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">167</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/984</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -63,13 +63,13 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x502</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x503</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x193</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x181</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x169</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x170</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x137</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x134</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x120</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x121</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x115</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x103</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x97</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find Target Indices After Sorting Array</div>
-                            <div class="date">19 Oct 2026</div>
+                            <div class="title">Sum of Sortable Integers</div>
+                            <div class="date">20 Oct 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Number of Ways to Reorder Array to Get Same BST</div>
-                            <div class="date">18 Oct 2026</div>
+                            <div class="title">Find Target Indices After Sorting Array</div>
+                            <div class="date">19 Oct 2026</div>
                         </div>
                     </div>
                 </section>
