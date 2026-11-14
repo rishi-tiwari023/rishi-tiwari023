@@ -63,13 +63,13 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x519</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x197</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x183</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x174</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x521</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x200</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x184</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x176</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x141</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x137</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x124</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x125</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x116</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x103</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x100</span></div>
